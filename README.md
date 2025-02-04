@@ -4,15 +4,22 @@ This project analyzes sales data from BigMart outlets to identify key factors in
 
 ## Technologies Used
 Power BI – Interactive dashboard visualization
+
 Python – Data analysis & machine learning
+
 Pandas & NumPy – Data preprocessing
+
 Matplotlib & Seaborn – Data visualization
+
 Scikit-learn – Regression modeling
 
 ## Key Features
 ✔ Data Cleaning & Preprocessing – Handled missing values, feature engineering
+
 ✔ Exploratory Data Analysis (EDA) – Identified trends & correlations in sales
+
 ✔ Sales Prediction Model – Built & evaluated a regression model
+
 ✔ Power BI Dashboard – Interactive insights for better business decisions
 
 ## How to Use
