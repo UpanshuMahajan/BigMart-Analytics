@@ -18,8 +18,11 @@ Scikit-learn – Regression modeling
 ## How to Use
 1️⃣ Clone the repository:
 git clone https://github.com/UpanshuMahajan/BigMart-Analytics.git
+
 2️⃣ Open BigMartAnalysis(FINAL).ipynb in Jupyter Notebook
+
 3️⃣ Run the notebook to see data processing, visualizations, and model predictions
+
 4️⃣ Open the Power BI Dashboard to explore interactive insights
 
 ## Results & Insights
